@@ -1,0 +1,16 @@
+- group code into the 4 stages as well as a common folder.
+
+1. Deffered Compilation (compiling object files)
+    - single file deffered compilation
+    - nested file deffered compilation
+2. Creating DLLs
+    - deffered compilation of DLL adjusted code
+    - creating the DLL
+    - create DLLs on all OSes
+3. Loading DLLs
+    - load functions
+    - load data
+    - load on one OS
+    - load on all OSes
+4. Load any type of function and data
+    - generic function and data storage method
